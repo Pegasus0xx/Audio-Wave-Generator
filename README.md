@@ -14,8 +14,8 @@ This project is a simple audio wave generator that allows you to create and play
 1. Clone the repository:
    
     ```bash
-    git clone https://github.com/Pegasus0xx/Audio-Wave-Generator.git
-    cd Audio-Wave-Generator
+    git clone https://github.com/Pegasus0xx/Audio-Wave-Generator.git; \
+    cd Audio-Wave-Generator;
     ```
 2. Install the required dependencies:
    
